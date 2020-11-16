@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-11-16T23:26:20.729Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4274.0 Safari/537.36" etag="sgSky0knT5L6WISyE4DR" version="13.9.9" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-16T23:37:13.313Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4274.0 Safari/537.36" etag="lCNIYc6MRtFvCm9jW1NV" version="13.9.9" type="github">
   <diagram id="BEVDedkttZ-zHT9xq8m-" name="Page-1">
-    <mxGraphModel dx="2333" dy="747" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2071" dy="615" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -10,7 +10,7 @@
         <mxCell id="1CTowpPIfYObmL4wpYnB-2" value="Registrovaný zákazník" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fillColor=#dae8fc;strokeColor=#6c8ebf;fontFamily=Verdana;fontStyle=0" parent="1" vertex="1">
           <mxGeometry x="50" y="770" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="1CTowpPIfYObmL4wpYnB-3" value="Zaměstnanec" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontFamily=Verdana;fontStyle=0" parent="1" vertex="1">
+        <mxCell id="1CTowpPIfYObmL4wpYnB-3" value="Zaměstnanec" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontFamily=Verdana;fontStyle=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="750" y="200" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="1CTowpPIfYObmL4wpYnB-7" value="Prohlížení sortimentu" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontStyle=0;fontFamily=Verdana;fontColor=#333333;" parent="1" vertex="1">
@@ -132,9 +132,6 @@
             <mxPoint x="740" y="815" as="sourcePoint" />
             <mxPoint x="689.9999999999957" y="815" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="KmXWG8qKT1OYE4VyEqhS-1" value="Zaměstnanec" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fillColor=#dae8fc;strokeColor=#6c8ebf;fontFamily=Verdana;fontStyle=0" vertex="1" parent="1">
-          <mxGeometry x="750" y="200" width="30" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
