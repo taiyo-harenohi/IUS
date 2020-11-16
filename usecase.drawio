@@ -1,43 +1,43 @@
-<mxfile host="app.diagrams.net" modified="2020-11-16T23:37:13.313Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4274.0 Safari/537.36" etag="lCNIYc6MRtFvCm9jW1NV" version="13.9.9" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-16T23:38:18.473Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4274.0 Safari/537.36" etag="qXqF0qZgj0KkpECP1BTG" version="13.9.9" type="github">
   <diagram id="BEVDedkttZ-zHT9xq8m-" name="Page-1">
     <mxGraphModel dx="2071" dy="615" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="1CTowpPIfYObmL4wpYnB-1" value="Návštěvník" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fillColor=#dae8fc;strokeColor=#6c8ebf;fontFamily=Verdana;fontStyle=0" parent="1" vertex="1">
+        <mxCell id="1CTowpPIfYObmL4wpYnB-1" value="Návštěvník" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fillColor=#f5f5f5;strokeColor=#666666;fontFamily=Verdana;fontStyle=0;fontColor=#333333;" parent="1" vertex="1">
           <mxGeometry x="50" y="200" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="1CTowpPIfYObmL4wpYnB-2" value="Registrovaný zákazník" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fillColor=#dae8fc;strokeColor=#6c8ebf;fontFamily=Verdana;fontStyle=0" parent="1" vertex="1">
+        <mxCell id="1CTowpPIfYObmL4wpYnB-2" value="Registrovaný zákazník" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fillColor=#f5f5f5;strokeColor=#666666;fontFamily=Verdana;fontStyle=0;fontColor=#333333;" parent="1" vertex="1">
           <mxGeometry x="50" y="770" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="1CTowpPIfYObmL4wpYnB-3" value="Zaměstnanec" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontFamily=Verdana;fontStyle=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+        <mxCell id="1CTowpPIfYObmL4wpYnB-3" value="Zaměstnanec" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontFamily=Verdana;fontStyle=0;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="1" vertex="1">
           <mxGeometry x="750" y="200" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="1CTowpPIfYObmL4wpYnB-7" value="Prohlížení sortimentu" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontStyle=0;fontFamily=Verdana;fontColor=#333333;" parent="1" vertex="1">
+        <mxCell id="1CTowpPIfYObmL4wpYnB-7" value="Prohlížení sortimentu" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=0;fontFamily=Verdana;" parent="1" vertex="1">
           <mxGeometry x="147.5" y="80" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="1CTowpPIfYObmL4wpYnB-8" value="Vybrání produktu" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontStyle=0;fontFamily=Verdana;fontColor=#333333;" parent="1" vertex="1">
+        <mxCell id="1CTowpPIfYObmL4wpYnB-8" value="Vybrání produktu" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=0;fontFamily=Verdana;" parent="1" vertex="1">
           <mxGeometry x="200" y="190" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="1CTowpPIfYObmL4wpYnB-10" value="Uložení vybraného zboží" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontStyle=0;fontFamily=Verdana;fontColor=#333333;" parent="1" vertex="1">
+        <mxCell id="1CTowpPIfYObmL4wpYnB-10" value="Uložení vybraného zboží" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=0;fontFamily=Verdana;" parent="1" vertex="1">
           <mxGeometry x="160" y="870" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="1CTowpPIfYObmL4wpYnB-11" value="Hodnocení zboží&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-size: 0px;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22znovuna%C4%8Dten%C3%AD%20vybran%C3%A9ho%20zbo%C5%BE%C3%AD%22%20style%3D%22ellipse%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22230%22%20y%3D%22390%22%20width%3D%22120%22%20height%3D%2280%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontStyle=0;fontFamily=Verdana;fontColor=#333333;" parent="1" vertex="1">
+        <mxCell id="1CTowpPIfYObmL4wpYnB-11" value="Hodnocení zboží&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-size: 0px;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22znovuna%C4%8Dten%C3%AD%20vybran%C3%A9ho%20zbo%C5%BE%C3%AD%22%20style%3D%22ellipse%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22230%22%20y%3D%22390%22%20width%3D%22120%22%20height%3D%2280%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=0;fontFamily=Verdana;" parent="1" vertex="1">
           <mxGeometry x="147.5" y="660" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="1CTowpPIfYObmL4wpYnB-12" value="Psaní recenzí&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-size: 0px;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22Hodnocen%C3%AD%20zbo%C5%BE%C3%AD%26lt%3Bspan%20style%3D%26quot%3Bcolor%3A%20rgba(0%20%2C%200%20%2C%200%20%2C%200)%20%3B%20font-family%3A%20monospace%20%3B%20font-size%3A%200px%26quot%3B%26gt%3B%253CmxGraphModel%253E%253Croot%253E%253CmxCell%2520id%253D%25220%2522%252F%253E%253CmxCell%2520id%253D%25221%2522%2520parent%253D%25220%2522%252F%253E%253CmxCell%2520id%253D%25222%2522%2520value%253D%2522znovuna%25C4%258Dten%25C3%25AD%2520vybran%25C3%25A9ho%2520zbo%25C5%25BE%25C3%25AD%2522%2520style%253D%2522ellipse%253BwhiteSpace%253Dwrap%253Bhtml%253D1%253B%2522%2520vertex%253D%25221%2522%2520parent%253D%25221%2522%253E%253CmxGeometry%2520x%253D%2522230%2522%2520y%253D%2522390%2522%2520width%253D%2522120%2522%2520height%253D%252280%2522%2520as%253D%2522geometry%2522%252F%253E%253C%252FmxCell%253E%253C%252Froot%253E%253C%252FmxGraphModel%253E%26lt%3B%2Fspan%26gt%3B%22%20style%3D%22ellipse%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22370%22%20y%3D%22530%22%20width%3D%22120%22%20height%3D%2280%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModelPsan&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontStyle=0;fontFamily=Verdana;fontColor=#333333;" parent="1" vertex="1">
+        <mxCell id="1CTowpPIfYObmL4wpYnB-12" value="Psaní recenzí&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-size: 0px;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22Hodnocen%C3%AD%20zbo%C5%BE%C3%AD%26lt%3Bspan%20style%3D%26quot%3Bcolor%3A%20rgba(0%20%2C%200%20%2C%200%20%2C%200)%20%3B%20font-family%3A%20monospace%20%3B%20font-size%3A%200px%26quot%3B%26gt%3B%253CmxGraphModel%253E%253Croot%253E%253CmxCell%2520id%253D%25220%2522%252F%253E%253CmxCell%2520id%253D%25221%2522%2520parent%253D%25220%2522%252F%253E%253CmxCell%2520id%253D%25222%2522%2520value%253D%2522znovuna%25C4%258Dten%25C3%25AD%2520vybran%25C3%25A9ho%2520zbo%25C5%25BE%25C3%25AD%2522%2520style%253D%2522ellipse%253BwhiteSpace%253Dwrap%253Bhtml%253D1%253B%2522%2520vertex%253D%25221%2522%2520parent%253D%25221%2522%253E%253CmxGeometry%2520x%253D%2522230%2522%2520y%253D%2522390%2522%2520width%253D%2522120%2522%2520height%253D%252280%2522%2520as%253D%2522geometry%2522%252F%253E%253C%252FmxCell%253E%253C%252Froot%253E%253C%252FmxGraphModel%253E%26lt%3B%2Fspan%26gt%3B%22%20style%3D%22ellipse%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22370%22%20y%3D%22530%22%20width%3D%22120%22%20height%3D%2280%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModelPsan&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=0;fontFamily=Verdana;" parent="1" vertex="1">
           <mxGeometry x="212.5" y="750" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="1CTowpPIfYObmL4wpYnB-13" value="Objednání zboží" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontStyle=0;fontFamily=Verdana;fontColor=#333333;" parent="1" vertex="1">
+        <mxCell id="1CTowpPIfYObmL4wpYnB-13" value="Objednání zboží" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=0;fontFamily=Verdana;" parent="1" vertex="1">
           <mxGeometry x="180" y="290" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="1CTowpPIfYObmL4wpYnB-14" value="Přiobjednání dalšího zboží" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontStyle=0;fontFamily=Verdana;fontColor=#333333;" parent="1" vertex="1">
+        <mxCell id="1CTowpPIfYObmL4wpYnB-14" value="Přiobjednání dalšího zboží" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=0;fontFamily=Verdana;" parent="1" vertex="1">
           <mxGeometry x="570" y="70" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="1CTowpPIfYObmL4wpYnB-15" value="Zobrazení statistiky oblíbenosti" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontStyle=0;fontFamily=Verdana;fontColor=#333333;" parent="1" vertex="1">
+        <mxCell id="1CTowpPIfYObmL4wpYnB-15" value="Zobrazení statistiky oblíbenosti" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=0;fontFamily=Verdana;" parent="1" vertex="1">
           <mxGeometry x="510" y="190" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="1CTowpPIfYObmL4wpYnB-16" value="Zobrazení prodejnosti zboží" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontStyle=0;fontFamily=Verdana;fontColor=#333333;" parent="1" vertex="1">
+        <mxCell id="1CTowpPIfYObmL4wpYnB-16" value="Zobrazení prodejnosti zboží" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=0;fontFamily=Verdana;" parent="1" vertex="1">
           <mxGeometry x="585" y="300" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="1CTowpPIfYObmL4wpYnB-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontFamily=Verdana;fontStyle=0;fillColor=#f5f5f5;strokeColor=#666666;" parent="1" source="1CTowpPIfYObmL4wpYnB-10" target="1CTowpPIfYObmL4wpYnB-10" edge="1">
@@ -49,16 +49,16 @@
             <mxPoint x="64" y="690" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="1CTowpPIfYObmL4wpYnB-27" value="Čas" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fillColor=#dae8fc;strokeColor=#6c8ebf;fontFamily=Verdana;fontStyle=0" parent="1" vertex="1">
+        <mxCell id="1CTowpPIfYObmL4wpYnB-27" value="Čas" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fillColor=#f5f5f5;strokeColor=#666666;fontFamily=Verdana;fontStyle=0;fontColor=#333333;" parent="1" vertex="1">
           <mxGeometry x="755" y="765" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="1CTowpPIfYObmL4wpYnB-28" value="Zaznamenání statistiky oblíbenosti" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontStyle=0;fontFamily=Verdana;fontColor=#333333;" parent="1" vertex="1">
+        <mxCell id="1CTowpPIfYObmL4wpYnB-28" value="Zaznamenání statistiky oblíbenosti" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=0;fontFamily=Verdana;" parent="1" vertex="1">
           <mxGeometry x="570" y="660" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="1CTowpPIfYObmL4wpYnB-29" value="Zaznamenání statistiky prodejnosti zboží" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontStyle=0;fontFamily=Verdana;fontColor=#333333;" parent="1" vertex="1">
+        <mxCell id="1CTowpPIfYObmL4wpYnB-29" value="Zaznamenání statistiky prodejnosti zboží" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=0;fontFamily=Verdana;" parent="1" vertex="1">
           <mxGeometry x="570" y="870" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="1CTowpPIfYObmL4wpYnB-35" value="Ukládání základních údajích o dodavatelích" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontStyle=0;fontFamily=Verdana;fontColor=#333333;" parent="1" vertex="1">
+        <mxCell id="1CTowpPIfYObmL4wpYnB-35" value="Ukládání základních údajích o dodavatelích" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=0;fontFamily=Verdana;" parent="1" vertex="1">
           <mxGeometry x="510" y="760" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="1CTowpPIfYObmL4wpYnB-37" value="" style="endArrow=classic;html=1;fontFamily=Verdana;fontStyle=0;fillColor=#b1ddf0;strokeColor=#10739e;" parent="1" target="1CTowpPIfYObmL4wpYnB-7" edge="1">
