@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-16T20:18:20.648Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4274.0 Safari/537.36" etag="GlfEpuBHI5XOQZh1Wtqy" version="13.9.2" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-16T20:51:00.552Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4274.0 Safari/537.36" etag="rs7jWGMxqprOMUbAGJGs" version="13.9.2" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="865" dy="483" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -36,7 +36,7 @@
           <mxGeometry y="126" width="160" height="26" as="geometry" />
         </mxCell>
         <mxCell id="zkfFHV4jXpPFQw0GAbJ--13" value="Skicáky" style="swimlane;fontStyle=0;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="650" y="310" width="160" height="156" as="geometry">
+          <mxGeometry x="660" y="256" width="160" height="156" as="geometry">
             <mxRectangle x="340" y="380" width="170" height="26" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -79,11 +79,11 @@
           <mxGeometry y="156" width="160" height="26" as="geometry" />
         </mxCell>
         <mxCell id="AJ6dEC1eVE21eoy3BHa8-7" value="Košík" style="swimlane;fontStyle=0;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="360" y="490" width="160" height="110" as="geometry">
+          <mxGeometry x="370" y="412" width="160" height="110" as="geometry">
             <mxRectangle x="340" y="380" width="170" height="26" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="AJ6dEC1eVE21eoy3BHa8-8" value="&lt;&lt;PK&gt;&gt; ID uživatele&#xa;" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="AJ6dEC1eVE21eoy3BHa8-7" vertex="1">
+        <mxCell id="AJ6dEC1eVE21eoy3BHa8-8" value="&lt;&lt;PK&gt;&gt; ID košíku" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="AJ6dEC1eVE21eoy3BHa8-7" vertex="1">
           <mxGeometry y="26" width="160" height="26" as="geometry" />
         </mxCell>
         <mxCell id="AJ6dEC1eVE21eoy3BHa8-9" value="Druh zboží" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="AJ6dEC1eVE21eoy3BHa8-7" vertex="1">
@@ -158,22 +158,22 @@
           <mxGeometry x="320" y="140" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="JaXvLMGw2LlgTOnkyeHC-21" value="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="502.4" y="266" width="40" height="20" as="geometry" />
+          <mxGeometry x="512.4" y="120" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="JaXvLMGw2LlgTOnkyeHC-22" value="obsahuje" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="552.4" y="256" width="40" height="20" as="geometry" />
+          <mxGeometry x="552.4" y="192" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="JaXvLMGw2LlgTOnkyeHC-23" value="1 ... n" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="600" y="276" width="40" height="20" as="geometry" />
+          <mxGeometry x="630" y="230" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="JaXvLMGw2LlgTOnkyeHC-24" value="0 ... n" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="414" y="300" width="40" height="20" as="geometry" />
+          <mxGeometry x="430" y="150" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="JaXvLMGw2LlgTOnkyeHC-25" value="umožňuje vložit do" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="420" y="340" width="40" height="20" as="geometry" />
+          <mxGeometry x="454" y="270" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="JaXvLMGw2LlgTOnkyeHC-26" value="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="420" y="390" width="40" height="20" as="geometry" />
+          <mxGeometry x="470" y="390" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="JaXvLMGw2LlgTOnkyeHC-3" value="" style="endArrow=classic;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.994;entryY=0.792;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="zkfFHV4jXpPFQw0GAbJ--2" target="AJ6dEC1eVE21eoy3BHa8-16">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -182,7 +182,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="JaXvLMGw2LlgTOnkyeHC-29" value="Registrovaný zákazník" style="swimlane;fontStyle=0;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="200" y="320" width="160" height="110" as="geometry">
+          <mxGeometry x="40" y="412" width="160" height="108" as="geometry">
             <mxRectangle x="340" y="380" width="170" height="26" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -196,18 +196,60 @@
           <mxGeometry y="80" width="160" height="26" as="geometry" />
         </mxCell>
         <mxCell id="JaXvLMGw2LlgTOnkyeHC-33" value="Objednávka" style="swimlane;fontStyle=0;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="610" y="490" width="160" height="110" as="geometry">
+          <mxGeometry x="650" y="420" width="160" height="218" as="geometry">
             <mxRectangle x="340" y="380" width="170" height="26" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="JaXvLMGw2LlgTOnkyeHC-34" value="&lt;&lt;PK&gt;&gt; ID uživatele&#xa;" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="JaXvLMGw2LlgTOnkyeHC-33">
+        <mxCell id="JaXvLMGw2LlgTOnkyeHC-34" value="&lt;&lt;PK&gt;&gt; ID objednávky&#xa;" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="JaXvLMGw2LlgTOnkyeHC-33">
           <mxGeometry y="26" width="160" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="JaXvLMGw2LlgTOnkyeHC-35" value="Druh zboží" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="JaXvLMGw2LlgTOnkyeHC-33">
+        <mxCell id="JaXvLMGw2LlgTOnkyeHC-35" value="Celková cena" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="JaXvLMGw2LlgTOnkyeHC-33">
           <mxGeometry y="52" width="160" height="28" as="geometry" />
         </mxCell>
-        <mxCell id="JaXvLMGw2LlgTOnkyeHC-36" value="Počet" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="JaXvLMGw2LlgTOnkyeHC-33">
+        <mxCell id="JaXvLMGw2LlgTOnkyeHC-36" value="Způsob dopravy" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="JaXvLMGw2LlgTOnkyeHC-33">
           <mxGeometry y="80" width="160" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="JaXvLMGw2LlgTOnkyeHC-44" value="Předpokládané datum&#xa;doručení" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="JaXvLMGw2LlgTOnkyeHC-33">
+          <mxGeometry y="106" width="160" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="JaXvLMGw2LlgTOnkyeHC-45" value="Adresa zákazníka" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="JaXvLMGw2LlgTOnkyeHC-33">
+          <mxGeometry y="140" width="160" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="JaXvLMGw2LlgTOnkyeHC-46" value="Tel. číslo zákazníka" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="JaXvLMGw2LlgTOnkyeHC-33">
+          <mxGeometry y="166" width="160" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="JaXvLMGw2LlgTOnkyeHC-47" value="E-mail zákazníka" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="JaXvLMGw2LlgTOnkyeHC-33">
+          <mxGeometry y="192" width="160" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="JaXvLMGw2LlgTOnkyeHC-37" value="" style="endArrow=classic;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="JaXvLMGw2LlgTOnkyeHC-31" target="AJ6dEC1eVE21eoy3BHa8-9">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="432.4000000000001" y="150" as="sourcePoint" />
+            <mxPoint x="470" y="400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JaXvLMGw2LlgTOnkyeHC-38" value="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="210" y="450" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="JaXvLMGw2LlgTOnkyeHC-39" value="0 ... 1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="330" y="450" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="JaXvLMGw2LlgTOnkyeHC-40" value="ukládá objednávku do" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="270" y="430" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="JaXvLMGw2LlgTOnkyeHC-41" value="" style="endArrow=classic;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1.023;exitY=0.792;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="AJ6dEC1eVE21eoy3BHa8-9" target="JaXvLMGw2LlgTOnkyeHC-35">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="210" y="487.9999999999999" as="sourcePoint" />
+            <mxPoint x="380" y="487.9999999999999" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JaXvLMGw2LlgTOnkyeHC-48" value="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="530" y="457" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="JaXvLMGw2LlgTOnkyeHC-50" value="0 ... 1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="610" y="456" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="JaXvLMGw2LlgTOnkyeHC-51" value="umožňuje" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="570" y="437" width="40" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
