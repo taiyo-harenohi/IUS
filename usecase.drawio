@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-18T18:08:24.778Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4274.0 Safari/537.36" etag="TDY-Dd1i_w30J4hTnBIF" version="13.9.9" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-18T18:11:49.252Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4274.0 Safari/537.36" etag="h6PVyO94ra4OD0IaFbF2" version="13.9.9" type="github">
   <diagram id="BEVDedkttZ-zHT9xq8m-" name="Page-1">
     <mxGraphModel dx="2071" dy="682" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -45,21 +45,21 @@
         </mxCell>
         <mxCell id="1CTowpPIfYObmL4wpYnB-23" value="" style="endArrow=classic;html=1;fontFamily=Verdana;fontStyle=0;fillColor=#b1ddf0;strokeColor=#10739e;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="64" y="350" as="sourcePoint" />
-            <mxPoint x="64" y="690" as="targetPoint" />
+            <mxPoint x="64" y="710" as="sourcePoint" />
+            <mxPoint x="64" y="300" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="1CTowpPIfYObmL4wpYnB-27" value="Čas" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fillColor=#f5f5f5;strokeColor=#666666;fontFamily=Verdana;fontStyle=0;fontColor=#333333;" parent="1" vertex="1">
           <mxGeometry x="755" y="765" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="1CTowpPIfYObmL4wpYnB-28" value="Zaznamenání statistiky oblíbenosti" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=0;fontFamily=Verdana;" parent="1" vertex="1">
-          <mxGeometry x="570" y="660" width="120" height="80" as="geometry" />
+          <mxGeometry x="550" y="685" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="1CTowpPIfYObmL4wpYnB-29" value="Zaznamenání statistiky prodejnosti zboží" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=0;fontFamily=Verdana;" parent="1" vertex="1">
-          <mxGeometry x="570" y="870" width="120" height="80" as="geometry" />
+          <mxGeometry x="580" y="870" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="1CTowpPIfYObmL4wpYnB-35" value="Ukládání základních údajích o dodavatelích" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=0;fontFamily=Verdana;" parent="1" vertex="1">
-          <mxGeometry x="510" y="760" width="120" height="80" as="geometry" />
+          <mxGeometry x="520" y="780" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="1CTowpPIfYObmL4wpYnB-37" value="" style="endArrow=classic;html=1;fontFamily=Verdana;fontStyle=0;fillColor=#b1ddf0;strokeColor=#10739e;" parent="1" target="1CTowpPIfYObmL4wpYnB-7" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -134,9 +134,9 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="6j16Gg6PXC1G0qtXNiGe-2" value="Ukládání informací o registrovaných zákaznících" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=0;fontFamily=Verdana;" vertex="1" parent="1">
-          <mxGeometry x="690" y="610" width="120" height="80" as="geometry" />
+          <mxGeometry x="670" y="620" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="6j16Gg6PXC1G0qtXNiGe-3" value="" style="endArrow=classic;html=1;fontFamily=Verdana;fontStyle=0;fillColor=#b1ddf0;strokeColor=#10739e;" edge="1" parent="1">
+        <mxCell id="6j16Gg6PXC1G0qtXNiGe-3" value="" style="endArrow=classic;html=1;fontFamily=Verdana;fontStyle=0;fillColor=#b1ddf0;strokeColor=#10739e;entryX=0.68;entryY=1.004;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="6j16Gg6PXC1G0qtXNiGe-2">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="770" y="750" as="sourcePoint" />
             <mxPoint x="770" y="690" as="targetPoint" />
