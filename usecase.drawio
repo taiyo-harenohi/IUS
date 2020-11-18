@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-11-16T23:38:18.473Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4274.0 Safari/537.36" etag="qXqF0qZgj0KkpECP1BTG" version="13.9.9" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-18T18:08:24.778Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4274.0 Safari/537.36" etag="TDY-Dd1i_w30J4hTnBIF" version="13.9.9" type="github">
   <diagram id="BEVDedkttZ-zHT9xq8m-" name="Page-1">
-    <mxGraphModel dx="2071" dy="615" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2071" dy="682" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -19,7 +19,7 @@
         <mxCell id="1CTowpPIfYObmL4wpYnB-8" value="Vybrání produktu" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=0;fontFamily=Verdana;" parent="1" vertex="1">
           <mxGeometry x="200" y="190" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="1CTowpPIfYObmL4wpYnB-10" value="Uložení vybraného zboží" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=0;fontFamily=Verdana;" parent="1" vertex="1">
+        <mxCell id="1CTowpPIfYObmL4wpYnB-10" value="Uložení vybraného zboží do košíku" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=0;fontFamily=Verdana;" parent="1" vertex="1">
           <mxGeometry x="160" y="870" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="1CTowpPIfYObmL4wpYnB-11" value="Hodnocení zboží&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-size: 0px;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22znovuna%C4%8Dten%C3%AD%20vybran%C3%A9ho%20zbo%C5%BE%C3%AD%22%20style%3D%22ellipse%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22230%22%20y%3D%22390%22%20width%3D%22120%22%20height%3D%2280%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=0;fontFamily=Verdana;" parent="1" vertex="1">
@@ -131,6 +131,15 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="740" y="815" as="sourcePoint" />
             <mxPoint x="689.9999999999957" y="815" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6j16Gg6PXC1G0qtXNiGe-2" value="Ukládání informací o registrovaných zákaznících" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=0;fontFamily=Verdana;" vertex="1" parent="1">
+          <mxGeometry x="690" y="610" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="6j16Gg6PXC1G0qtXNiGe-3" value="" style="endArrow=classic;html=1;fontFamily=Verdana;fontStyle=0;fillColor=#b1ddf0;strokeColor=#10739e;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="770" y="750" as="sourcePoint" />
+            <mxPoint x="770" y="690" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
