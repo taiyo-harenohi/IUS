@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-11-26T16:01:03.176Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4274.0 Safari/537.36" etag="31HcD_5YhxgmxoEqBs2X" version="13.10.3" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-26T16:05:21.261Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4274.0 Safari/537.36" etag="rUImi3TuANGNv5hMdDTC" version="13.10.3" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1221" dy="1784" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="316" dy="1771" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -135,7 +135,7 @@
           <mxGeometry x="484" y="180" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="JaXvLMGw2LlgTOnkyeHC-29" value="Registrovaný zákazník" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontFamily=Verdana;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="20" y="340" width="180" height="206" as="geometry">
+          <mxGeometry x="20" y="340" width="180" height="180" as="geometry">
             <mxRectangle x="340" y="380" width="170" height="26" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -148,14 +148,11 @@
         <mxCell id="6qj5Sel-Buj4L6Bamwnv-1" value="Heslo" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;fontFamily=Verdana;" parent="JaXvLMGw2LlgTOnkyeHC-29" vertex="1">
           <mxGeometry y="98" width="180" height="28" as="geometry" />
         </mxCell>
-        <mxCell id="adF56M0xgdmxckAzojvA-28" value="Historie předchozího košíku" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;fontFamily=Verdana;" vertex="1" parent="JaXvLMGw2LlgTOnkyeHC-29">
+        <mxCell id="adF56M0xgdmxckAzojvA-13" value="Historie objednávek" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;fontFamily=Verdana;" vertex="1" parent="JaXvLMGw2LlgTOnkyeHC-29">
           <mxGeometry y="126" width="180" height="28" as="geometry" />
         </mxCell>
-        <mxCell id="adF56M0xgdmxckAzojvA-13" value="Historie objednávek" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;fontFamily=Verdana;" vertex="1" parent="JaXvLMGw2LlgTOnkyeHC-29">
-          <mxGeometry y="154" width="180" height="28" as="geometry" />
-        </mxCell>
         <mxCell id="adF56M0xgdmxckAzojvA-53" value="Obsah košíku" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;fontFamily=Verdana;" vertex="1" parent="JaXvLMGw2LlgTOnkyeHC-29">
-          <mxGeometry y="182" width="180" height="24" as="geometry" />
+          <mxGeometry y="154" width="180" height="26" as="geometry" />
         </mxCell>
         <mxCell id="JaXvLMGw2LlgTOnkyeHC-33" value="Objednávka" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontFamily=Verdana;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="324" y="350" width="160" height="218" as="geometry">
